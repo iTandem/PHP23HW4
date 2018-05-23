@@ -1,0 +1,87 @@
+.curr {
+  text-align: center;
+}
+
+.weather-pic {
+  margin-left: -1.5%;
+  display: inline-block;
+}
+
+.weather-condition {
+  font-weight: 200;
+  display: inline-block;
+  font-size: 2em;
+}
+
+.max-min-temp {
+  text-align: center;
+  font-weight: 200;
+  font-size: 1.5em;
+}
+
+.max-min-temp > p {
+  display: inline;
+}
+
+.current-temp {
+  font-size: 5em;
+  font-weight: 100;
+  text-align: center;
+}
+
+
+
+.parameters {
+  width: 50%;
+  margin-left: 25%;
+  font-size: 1.2em;
+  font-weight: 300;
+  padding-bottom: 100px;
+}
+
+.param-name {
+  float: left;
+}
+
+.param-data {
+  float: right;
+}
+
+.button {
+  padding: 0;
+}
+
+.bg {
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+
+.clear {
+  background-image: url("https://ak4.picdn.net/shutterstock/videos/3054394/thumb/1.jpg");
+}
+
+.clouds {
+  background-image: url("http://www.srh.noaa.gov/jetstream/clouds/cloudwise/images/cu.jpg");
+  color: #fff;
+}
+
+.drizzle {
+  background-image: url("http://www.whitneydrake.com/wp-content/uploads/2012/11/drizzle-11292012.jpg");
+  color: #fff;
+}
+
+.rain {
+  background-image: url("https://www.visitharrogate.co.uk/imageresizer/?image=%2Fdbimgs%2FHARR%20-%20Gallery%20-%20Inspire%20-%20rainy.jpg");
+  color: #fff;
+}
+
+.snow {
+  background-image: url("http://maxpixel.freegreatpicture.com/static/photo/1x/Snowing-Snowfall-Flakes-Snowflakes-Snow-Winter-201496.jpg");
+  color: #000;
+}
+
+.thunderstorm {
+  background-image: url("https://www.homeadvisor.com/r/wp-content/uploads/2015/03/Dollarphotoclub_43826198-1024x680.jpg");
+  color: #fff;
+}
