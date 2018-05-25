@@ -59,29 +59,36 @@
 
 .clear {
   background-image: url("https://ak4.picdn.net/shutterstock/videos/3054394/thumb/1.jpg");
+  background-color: cornflowerblue;
+  color: #ff5a4b;
 }
 
 .clouds {
   background-image: url("http://www.srh.noaa.gov/jetstream/clouds/cloudwise/images/cu.jpg");
+  background-color: #6a7d80;
   color: #fff;
 }
 
 .drizzle {
   background-image: url("http://www.whitneydrake.com/wp-content/uploads/2012/11/drizzle-11292012.jpg");
+  background-color: gray;
   color: #fff;
 }
 
 .rain {
   background-image: url("https://www.visitharrogate.co.uk/imageresizer/?image=%2Fdbimgs%2FHARR%20-%20Gallery%20-%20Inspire%20-%20rainy.jpg");
+  background-color: #8a85d5;
   color: #fff;
 }
 
 .snow {
   background-image: url("http://maxpixel.freegreatpicture.com/static/photo/1x/Snowing-Snowfall-Flakes-Snowflakes-Snow-Winter-201496.jpg");
+  background-color: #e3e3e3;
   color: #000;
 }
 
 .thunderstorm {
   background-image: url("https://www.homeadvisor.com/r/wp-content/uploads/2015/03/Dollarphotoclub_43826198-1024x680.jpg");
+  background-color: #ed5065;
   color: #fff;
 }
